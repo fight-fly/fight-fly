@@ -17,7 +17,7 @@
 
 I'm glad you came to visit my homepage.
 
-Look! Do the following medals look great? It's so easy to get them. I'm so proud of that, aren't I? Hahaha...
+Look! Do the following medals look great? It's so easy to get them. I'm so proud of that, aren't I? Hahaha... Do you want it too? Tell me! I can help you, because I am your friend!
 
 <div align="left">
 <img  src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" height="90" />
