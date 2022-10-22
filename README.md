@@ -20,12 +20,15 @@ I'm glad you came to visit my homepage.
 Look! Do the following medals look great? It's so easy to get them. I'm so proud of that, aren't I? Hahaha... Do you want it too? Tell me! I can help you, because I am your friend!
 
 <div align="left">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="90" height="90" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="90" height="90" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="90" height="90" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png" width="90" height="90" />
 <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" height="90" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" height="90" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="90" height="90" />
 <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90" height="90" />
 <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="90" height="90" />
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" height="90" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="90" height="90" />
 </div>
 
 
