@@ -3,7 +3,7 @@
 ![](/img/github-contribution-grid-snake.svg)
 
 <div align="center">
-<img  src="https://img.shields.io/badge/GFW-%E8%AE%A9%E7%94%9F%E6%B4%BB%E5%8F%98%E5%BE%97%E6%9B%B4%E7%BE%8E%E5%A5%BD-brightgreen" /> 
+<img  src="https://img.shields.io/badge/GFW-Make%20life%20better-brightgreen" /> 
 <img  src="https://img.shields.io/badge/Happy-FFFF-aquamarine" />
 <img  src="https://img.shields.io/badge/Sad-0000-blue" />
 <img  src="https://img.shields.io/badge/Proud-FFFF-chocolate" />
